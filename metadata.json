@@ -1,0 +1,6 @@
+{
+  "name": "Infinideck",
+  "description": "Infinite canvas-based presentation app with non-linear zooming, left-and-right timeline slides, rich media, collaborative cursors, paint-over, voice notes, and multi-format import/export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
